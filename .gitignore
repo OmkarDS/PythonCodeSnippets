@@ -1,3 +1,6 @@
 # ignore files used for file_handling
-file_handling/test2.txt
-file_handlin/test_copy.txt
+/file_handling/test2.txt
+/file_handling/test_copy.txt
+
+#ignore notebook checkpoints
+*.ipynb_checkpoints
