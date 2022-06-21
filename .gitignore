@@ -1,0 +1,3 @@
+# ignore files used for file_handling
+file_handling/test2.txt
+file_handlin/test_copy.txt
